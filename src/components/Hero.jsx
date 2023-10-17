@@ -1,4 +1,6 @@
 import ParallaxText from "./ParallaxText";
+import img from "../assets/images/bgwork-1.jpg"
+
 
 export default function Hero() {
   return (
@@ -25,7 +27,7 @@ export default function Hero() {
         <div className="absolute h-screen w-screen -z-10">
           <img
             className="object-cover h-full w-full"
-            src="src/assets/images/bgwork-1.jpg"
+            src={img}
             alt="abstract photo"
           />
         </div>
