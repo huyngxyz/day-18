@@ -5,11 +5,11 @@
 @layer base {
     @font-face {
         font-family: 'Cabinet-Grotesk';
-        src: url('src/assets/fonts/CabinetGrotesk-Medium.woff2'), format('woff2')
+        src: url('/src/assets/fonts/CabinetGrotesk-Medium.woff2'), format('woff2')
     }
 
     @font-face {
         font-family: 'Fraunces';
-        src: url('src/assets/fonts/Fraunces_72pt-Italic.ttf'), format('truetype')
+        src: url('/src/assets/fonts/Fraunces_72pt-Italic.ttf'), format('truetype')
     }
 }
