@@ -25,7 +25,7 @@ export default function Hero() {
         <div className="absolute h-screen w-screen -z-10">
           <img
             className="object-cover h-full w-full"
-            src="src/assets/images/bgwork-1.jpg"
+            src="../src/assets/images/bgwork-1.jpg"
             alt="abstract photo"
           />
         </div>
